@@ -1,21 +1,17 @@
-# 👋 Hi, I’m @th3v3rb
+# 👋 Hey there, I’m @th3v3rb!
 
-## 👀 Interests
-I’m interested in backend development, particularly in building scalable and efficient systems. I'm also experienced in full-stack development, but my passion lies in crafting robust server-side solutions.
+## 👀 What's Up?
+I'm deep into Laravel projects—love crafting backend solutions that scale. From handling databases to optimizing server performance, I'm all about making things run like clockwork.
 
-## 🌱 Current Learning
-I’m currently learning about microservices architecture with Spring, aiming to enhance my skills in building distributed systems. I'm excited about the potential of microservices to revolutionize software development and scalability.
+## 🌱 Learning Journey
+Currently geeking out on microservices with Spring. It's mind-blowing how these little services can revolutionize software architecture. Exciting times as I dive into building distributed systems!
 
-## 💞️ Collaboration
-I’m looking to collaborate on projects that challenge me and allow me to apply my expertise in backend development. Whether it's tackling complex problems or exploring innovative solutions, I'm always eager to take on new challenges.
+## 💬 Let's Chat
+Looking to team up on projects that challenge and inspire. Got a cool idea or a tough problem? Count me in—I thrive on tackling backend complexities and finding elegant solutions.
 
-## 📫 Contact Information
+## 📫 How to Reach Me
 - **Email:** [1205hugopenayo@gmail.com](mailto:1205hugopenayo@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hugo-penayo-927772268/)
 
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-Apart from coding, I'm a guitarist and a passionate advocate of open-source software. I believe in the power of collaboration and the transformative potential of technology to create positive change.
- 
+## 😄 Fun Fact
+When I'm not coding, I'm strumming my guitar or digin deeper on open-source software. Collaboration drives me, and I'm passionate about tech's power to create positive change.
