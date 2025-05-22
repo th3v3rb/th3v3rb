@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m @th3v3rb!
 
 ## 👀 What's Up?
-I'm deep into Laravel projects—love crafting backend solutions that scale. From handling databases to optimizing server performance, I'm all about making things run like clockwork.
+I'm deep into Springboot projects—love crafting backend solutions that scale. From handling databases to optimizing server performance, I'm all about making things run like clockwork.
 
 ## 🌱 Learning Journey
 Currently geeking out on microservices with Spring. It's mind-blowing how these little services can revolutionize software architecture. Exciting times as I dive into building distributed systems!
